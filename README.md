@@ -1,1 +1,1 @@
-# amazon-clone
+The **Amazon Clone** project is a basic frontend web application built using **HTML and CSS**. It replicates the homepage of Amazon with a simple yet responsive design. The project includes a **navigation bar, product listings, banners, and a footer**, mimicking the look and feel of the actual Amazon website. It focuses solely on the **frontend**, without any backend functionality, making it a great practice project for beginners looking to improve their HTML and CSS skills.
